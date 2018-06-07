@@ -2,7 +2,7 @@
 # VERSION        0.1
 
 FROM ubuntu:14.04
-MAINTAINER Justin Plock <justin@plock.net>
+MAINTAINER Justin Plock <jplock@smoketurner.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
